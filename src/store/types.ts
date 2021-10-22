@@ -1,0 +1,6 @@
+export enum Actions {
+  LOAD_POSTS = 'LOAD-POSTS',
+  TOGGLE_BOOKED = 'TOGGLE-BOOKED',
+  REMOVE_POST = 'REMOVE-POST',
+  ADD_POST = 'ADD-POST'
+}
